@@ -1000,7 +1000,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 20
+  m_Intensity: 12
   m_Range: 69.5
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -1920,7 +1920,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &233725131
 Transform:
   m_ObjectHideFlags: 0
@@ -4014,7 +4014,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emptyMesa: {fileID: 1887773272}
   maquetaCollider: {fileID: 1820987870}
-  pisoCollider: {fileID: 0}
+  pisoCollider: {fileID: 7764786210146611301}
 --- !u!1 &374022813
 GameObject:
   m_ObjectHideFlags: 0
@@ -4627,7 +4627,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 20
+  m_Intensity: 12
   m_Range: 69.5
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -8048,7 +8048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emptyMesa: {fileID: 1788661129}
   maquetaCollider: {fileID: 810774510}
-  pisoCollider: {fileID: 0}
+  pisoCollider: {fileID: 7764786210146611301}
 --- !u!1 &818233185
 GameObject:
   m_ObjectHideFlags: 0
@@ -16201,7 +16201,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emptyMesa: {fileID: 878109671}
   maquetaCollider: {fileID: 488306637}
-  pisoCollider: {fileID: 0}
+  pisoCollider: {fileID: 7764786210146611301}
 --- !u!1 &1356920029
 GameObject:
   m_ObjectHideFlags: 0
@@ -18835,7 +18835,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emptyMesa: {fileID: 712354380}
   maquetaCollider: {fileID: 1396964215}
-  pisoCollider: {fileID: 0}
+  pisoCollider: {fileID: 7764786210146611301}
 --- !u!1001 &1601516593
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19710,7 +19710,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7fdd0d21beb30e642b7e84e7ea5407e2, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.46
+      value: 2.81
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 7fdd0d21beb30e642b7e84e7ea5407e2, type: 3}
       propertyPath: m_LocalPosition.z
@@ -23808,7 +23808,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emptyMesa: {fileID: 692006231}
   maquetaCollider: {fileID: 2068902216}
-  pisoCollider: {fileID: 0}
+  pisoCollider: {fileID: 7764786210146611301}
 --- !u!1001 &2074071519
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25119,7 +25119,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 684228641321036124}
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -7.49, y: 0.38, z: -1.38}
+  m_LocalPosition: {x: -7.49, y: -0.42, z: -1.38}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -25231,7 +25231,7 @@ MonoBehaviour:
   HmdResetsY: 1
   HmdRotatesY: 1
   GravityModifier: 1
-  useProfileData: 1
+  useProfileData: 0
   EnableLinearMovement: 1
   EnableRotation: 1
   RotationEitherThumbstick: 0
@@ -25246,7 +25246,7 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 2
+  m_Height: 0.5
   m_Radius: 0.05
   m_SlopeLimit: 45
   m_StepOffset: 0.3
@@ -25548,7 +25548,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emptyMesa: {fileID: 1933298360}
   maquetaCollider: {fileID: 6490625522670492107}
-  pisoCollider: {fileID: 0}
+  pisoCollider: {fileID: 7764786210146611301}
 --- !u!23 &920967523055798374
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33642,7 +33642,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emptyMesa: {fileID: 818233185}
   maquetaCollider: {fileID: 1489649352}
-  pisoCollider: {fileID: 0}
+  pisoCollider: {fileID: 7764786210146611301}
 --- !u!33 &7568759952402643490
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -33884,7 +33884,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emptyMesa: {fileID: 1956491209}
   maquetaCollider: {fileID: 8484908056642391630}
-  pisoCollider: {fileID: 0}
+  pisoCollider: {fileID: 7764786210146611301}
 --- !u!1 &7698880113679757553
 GameObject:
   m_ObjectHideFlags: 0

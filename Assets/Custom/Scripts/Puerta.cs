@@ -25,7 +25,7 @@ public class Puerta : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Vector3.Distance(transform.position,player.transform.position) <= 8 && doorOpen == false)
+        if(Vector3.Distance(transform.position,player.transform.position) <= 4 && doorOpen == false)
         {
             Debug.Log("Enter");
             transform.position += new Vector3(0, 0, 5);
@@ -36,7 +36,7 @@ public class Puerta : MonoBehaviour
 
         }
         
-      if(Vector3.Distance(transform.position, player.transform.position) > 8 && doorOpen == true)
+      if(Vector3.Distance(transform.position, player.transform.position) > 4 && doorOpen == true)
         {
             Debug.Log("Exit");
             transform.position = savedPosition;
