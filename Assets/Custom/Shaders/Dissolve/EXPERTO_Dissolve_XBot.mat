@@ -58,6 +58,7 @@ Material:
     - Noise_Scale: 100
     - Noise_Strength: 1
     - _DISSOLVE: 1
+    - _DTime: 4
     - _QueueControl: 1
     - _QueueOffset: 0
     m_Colors:
