@@ -10,6 +10,8 @@ public class Replacer : MonoBehaviour
 
     public Collider pisoCollider;
 
+    public Collider vacioCollider;
+
     private Quaternion savedRotation;
     // Start is called before the first frame update
     void Start()
@@ -23,7 +25,7 @@ public class Replacer : MonoBehaviour
     void Update()
     {
 
-        if (maquetaCollider.bounds.Intersects(pisoCollider.bounds))
+        if (maquetaCollider.bounds.Intersects(pisoCollider.bounds) || maquetaCollider.bounds.Intersects(vacioCollider.bounds))
         {
             transform.position = emptyMesa.transform.position + new Vector3(0, 0, 0);
             transform.rotation = savedRotation;

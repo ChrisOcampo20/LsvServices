@@ -1000,7 +1000,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 12
+  m_Intensity: 10
   m_Range: 69.5
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -2216,6 +2216,120 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 243566885}
   m_Mesh: {fileID: 6902998733701316589, guid: 4543d3f168105e245b6b36bbfc258ebb, type: 3}
+--- !u!1 &254214929
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 254214934}
+  - component: {fileID: 254214933}
+  - component: {fileID: 254214932}
+  - component: {fileID: 254214931}
+  - component: {fileID: 254214930}
+  m_Layer: 7
+  m_Name: Vacio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!65 &254214930
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 254214929}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.072893284, y: 0.03544745, z: 0.00010000008}
+  m_Center: {x: 0.0040442916, y: -4.656613e-10, z: -0.0037567406}
+--- !u!54 &254214931
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 254214929}
+  serializedVersion: 2
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!23 &254214932
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 254214929}
+  m_Enabled: 0
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 6c5f8c0bb54efdd43af12ec7542ba8bb, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &254214933
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 254214929}
+  m_Mesh: {fileID: -1550514412580984892, guid: 09f574a8b3c8bab42be13d780d9c672f, type: 3}
+--- !u!4 &254214934
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 254214929}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 1.2331257, y: -13, z: -2.8}
+  m_LocalScale: {x: 5758.163, y: 5758.1626, z: 5758.1626}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 825150639}
+  m_RootOrder: 8
+  m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
 --- !u!1 &257946012
 GameObject:
   m_ObjectHideFlags: 0
@@ -3881,6 +3995,7 @@ GameObject:
   - component: {fileID: 372261854}
   - component: {fileID: 372261855}
   - component: {fileID: 372261853}
+  - component: {fileID: 372261856}
   m_Layer: 0
   m_Name: MaquetaVR
   m_TagString: Untagged
@@ -3896,7 +4011,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 372261849}
   m_LocalRotation: {x: -3.3881318e-21, y: 1.4210855e-14, z: -0, w: 1}
-  m_LocalPosition: {x: -0.0063427757, y: -0.004465544, z: 0.0026152986}
+  m_LocalPosition: {x: -0.006, y: -0.005, z: 0.007}
   m_LocalScale: {x: 0.9079716, y: 0.9079716, z: 0.9079716}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3981,7 +4096,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!114 &372261854
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4015,6 +4130,20 @@ MonoBehaviour:
   emptyMesa: {fileID: 1887773272}
   maquetaCollider: {fileID: 1820987870}
   pisoCollider: {fileID: 7764786210146611301}
+  vacioCollider: {fileID: 254214930}
+--- !u!65 &372261856
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 372261849}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.035177097, y: 0.028292539, z: 0.00069034286}
+  m_Center: {x: 0.0075885775, y: 0.0041462686, z: -0.010345173}
 --- !u!1 &374022813
 GameObject:
   m_ObjectHideFlags: 0
@@ -4377,7 +4506,7 @@ PrefabInstance:
     - target: {fileID: 137383442524578654, guid: ba1fa4a8c66106b4988c88fe4b8e8502, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 944feb076639a4d39b750e3cb5d7dfab, type: 2}
+      objectReference: {fileID: 2100000, guid: 933aaa6034b4025489b9b8c1a770a2e5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ba1fa4a8c66106b4988c88fe4b8e8502, type: 3}
 --- !u!4 &387276294 stripped
@@ -4627,7 +4756,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 12
+  m_Intensity: 10
   m_Range: 69.5
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -7899,6 +8028,7 @@ GameObject:
   - component: {fileID: 810774511}
   - component: {fileID: 810774508}
   - component: {fileID: 810774510}
+  - component: {fileID: 810774512}
   m_Layer: 0
   m_Name: MaquetaIntuitive
   m_TagString: Untagged
@@ -7914,7 +8044,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 810774504}
   m_LocalRotation: {x: 0.7071067, y: -0.00000032313056, z: -0.00000032313062, w: 0.7071069}
-  m_LocalPosition: {x: 0.0014616359, y: 0.001764022, z: -0.0035639259}
+  m_LocalPosition: {x: 0.001, y: 0.002, z: 0.001}
   m_LocalScale: {x: 0.009138985, y: 0.009138985, z: 0.009138985}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8002,7 +8132,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!114 &810774509
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8049,6 +8179,20 @@ MonoBehaviour:
   emptyMesa: {fileID: 1788661129}
   maquetaCollider: {fileID: 810774510}
   pisoCollider: {fileID: 7764786210146611301}
+  vacioCollider: {fileID: 254214930}
+--- !u!65 &810774512
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 810774504}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.5177107, y: 2.0690348, z: 2.8292549}
+  m_Center: {x: -0.26744115, y: 0.5861937, z: -0.09712205}
 --- !u!1 &818233185
 GameObject:
   m_ObjectHideFlags: 0
@@ -8148,6 +8292,7 @@ Transform:
   - {fileID: 7023497256210076782}
   - {fileID: 5309211911578724331}
   - {fileID: 4401753224777227524}
+  - {fileID: 254214934}
   m_Father: {fileID: 2494418447539410865}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -15424,7 +15569,7 @@ PrefabInstance:
     - target: {fileID: 137977633181334670, guid: e6ba3498ffa1e534b91a07264266e6b8, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 944feb076639a4d39b750e3cb5d7dfab, type: 2}
+      objectReference: {fileID: 2100000, guid: 933aaa6034b4025489b9b8c1a770a2e5, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6ba3498ffa1e534b91a07264266e6b8, type: 3}
 --- !u!4 &1233070932 stripped
@@ -16168,7 +16313,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!114 &1352575990
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16202,6 +16347,7 @@ MonoBehaviour:
   emptyMesa: {fileID: 878109671}
   maquetaCollider: {fileID: 488306637}
   pisoCollider: {fileID: 7764786210146611301}
+  vacioCollider: {fileID: 254214930}
 --- !u!1 &1356920029
 GameObject:
   m_ObjectHideFlags: 0
@@ -16831,15 +16977,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1c76a6608081c3a4f95418b1d11aba8a, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.002005031
+      value: 0.002
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1c76a6608081c3a4f95418b1d11aba8a, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.0006879341
+      value: -0.001
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1c76a6608081c3a4f95418b1d11aba8a, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.0041706925
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 1c76a6608081c3a4f95418b1d11aba8a, type: 3}
       propertyPath: m_LocalRotation.w
@@ -17874,11 +18020,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3608038840869032754, guid: cac0f2ecbff0a1445a211a849f2a4b8e, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.0011246651
+      value: -0.001
       objectReference: {fileID: 0}
     - target: {fileID: 3608038840869032754, guid: cac0f2ecbff0a1445a211a849f2a4b8e, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.007123391
+      value: -0.003
       objectReference: {fileID: 0}
     - target: {fileID: 3608038840869032754, guid: cac0f2ecbff0a1445a211a849f2a4b8e, type: 3}
       propertyPath: m_LocalRotation.w
@@ -18802,7 +18948,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!114 &1598890385
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18836,6 +18982,20 @@ MonoBehaviour:
   emptyMesa: {fileID: 712354380}
   maquetaCollider: {fileID: 1396964215}
   pisoCollider: {fileID: 7764786210146611301}
+  vacioCollider: {fileID: 254214930}
+--- !u!65 &1598890387
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1598890382}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &1601516593
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22359,7 +22519,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1933298360}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0.0011, z: 0}
+  m_LocalPosition: {x: 0, y: -0.0014, z: 0.0022}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -23669,6 +23829,7 @@ GameObject:
   - component: {fileID: 2068902215}
   - component: {fileID: 2068902214}
   - component: {fileID: 2068902217}
+  - component: {fileID: 2068902218}
   m_Layer: 0
   m_Name: MaquetaDocument
   m_TagString: Untagged
@@ -23684,7 +23845,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2068902210}
   m_LocalRotation: {x: 0.7071067, y: -0.00000032313056, z: -0.00000032313062, w: 0.7071069}
-  m_LocalPosition: {x: 0.0027, y: 0.0018, z: -0.0036}
+  m_LocalPosition: {x: 0.003, y: 0.002, z: 0.003}
   m_LocalScale: {x: 0.009138986, y: 0.009138986, z: 0.009138986}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -23780,7 +23941,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!65 &2068902216
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23809,6 +23970,20 @@ MonoBehaviour:
   emptyMesa: {fileID: 692006231}
   maquetaCollider: {fileID: 2068902216}
   pisoCollider: {fileID: 7764786210146611301}
+  vacioCollider: {fileID: 254214930}
+--- !u!65 &2068902218
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2068902210}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.5177102, y: 2.0690346, z: 2.8292549}
+  m_Center: {x: -0.26744303, y: 0.58619267, z: -0.097123004}
 --- !u!1001 &2074071519
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25012,7 +25187,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 919132149327842997}
   m_LocalRotation: {x: 0.00000013767877, y: -0.7071068, z: -0.70710677, w: 0.00000013767878}
-  m_LocalPosition: {x: -0.0034, y: -0.0071, z: -0.0065}
+  m_LocalPosition: {x: -0.0034, y: -0.007, z: -0.002}
   m_LocalScale: {x: 0.005595824, y: 0.005595824, z: 0.005595824}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -25533,7 +25708,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!114 &919132149327843000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25549,6 +25724,7 @@ MonoBehaviour:
   emptyMesa: {fileID: 1933298360}
   maquetaCollider: {fileID: 6490625522670492107}
   pisoCollider: {fileID: 7764786210146611301}
+  vacioCollider: {fileID: 254214930}
 --- !u!23 &920967523055798374
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26617,7 +26793,7 @@ Camera:
   m_FOVAxisMode: 0
   m_SensorSize: {x: 36, y: 24}
   m_LensShift: {x: 0, y: 0}
-  m_FocalLength: 50
+  m_FocalLength: 10.069196
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -26626,7 +26802,7 @@ Camera:
     height: 1
   near clip plane: 0.1
   far clip plane: 1000
-  field of view: 90
+  field of view: 100
   orthographic: 0
   orthographic size: 5
   m_Depth: 0
@@ -30911,7 +31087,7 @@ Rigidbody:
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 0
-  m_IsKinematic: 1
+  m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
@@ -33212,7 +33388,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7698880112471730527}
   m_LocalRotation: {x: 0.00000013767877, y: -0.7071068, z: -0.70710677, w: 0.00000013767878}
-  m_LocalPosition: {x: -0.0032, y: -0.0001, z: -0.0079}
+  m_LocalPosition: {x: -0.003, y: -0, z: -0.004}
   m_LocalScale: {x: 0.0057441136, y: 0.0057441136, z: 0.0057441136}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -33332,7 +33508,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7559352440045566235}
   m_LocalRotation: {x: 0.00000013767877, y: -0.7071068, z: -0.70710677, w: 0.00000013767878}
-  m_LocalPosition: {x: -0.0084, y: -0.0763, z: -0.0025}
+  m_LocalPosition: {x: -0.008, y: -0.076, z: 0.002}
   m_LocalScale: {x: 0.006915123, y: 0.006915123, z: 0.006915123}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -33587,6 +33763,7 @@ GameObject:
   - component: {fileID: 7559352440045566237}
   - component: {fileID: 7559352440045566238}
   - component: {fileID: 7559352440045566236}
+  - component: {fileID: 7559352440045566239}
   m_Layer: 0
   m_Name: MaquetaDASHBOARDSfbx
   m_TagString: Untagged
@@ -33609,7 +33786,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!114 &7559352440045566237
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33643,6 +33820,20 @@ MonoBehaviour:
   emptyMesa: {fileID: 818233185}
   maquetaCollider: {fileID: 1489649352}
   pisoCollider: {fileID: 7764786210146611301}
+  vacioCollider: {fileID: 254214930}
+--- !u!65 &7559352440045566239
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7559352440045566235}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!33 &7568759952402643490
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -33829,6 +34020,7 @@ GameObject:
   - component: {fileID: 7698880112471730529}
   - component: {fileID: 7698880112471730528}
   - component: {fileID: 7698880112471730530}
+  - component: {fileID: 7698880112471730531}
   m_Layer: 0
   m_Name: Maqueta-BigData Variant
   m_TagString: Untagged
@@ -33869,7 +34061,7 @@ Rigidbody:
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!114 &7698880112471730530
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33885,6 +34077,20 @@ MonoBehaviour:
   emptyMesa: {fileID: 1956491209}
   maquetaCollider: {fileID: 8484908056642391630}
   pisoCollider: {fileID: 7764786210146611301}
+  vacioCollider: {fileID: 254214930}
+--- !u!65 &7698880112471730531
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7698880112471730527}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &7698880113679757553
 GameObject:
   m_ObjectHideFlags: 0
