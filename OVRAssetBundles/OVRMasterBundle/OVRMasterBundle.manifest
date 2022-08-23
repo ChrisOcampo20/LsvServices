@@ -1,0 +1,128 @@
+ManifestFileVersion: 0
+CRC: 233195080
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: asset_resources
+      Dependencies: {}
+    Info_1:
+      Name: scene_maquetas
+      Dependencies:
+        Dependency_0: asset_fbx0
+        Dependency_1: asset_fbx1
+        Dependency_2: asset_mat0
+        Dependency_3: asset_mat1
+        Dependency_4: asset_mat2
+        Dependency_5: asset_mp40
+        Dependency_6: asset_wav0
+        Dependency_7: asset_controller0
+        Dependency_8: asset_prefab0
+        Dependency_9: asset_exr0
+        Dependency_10: asset_vfx0
+        Dependency_11: asset_mp30
+        Dependency_12: asset_asset0
+        Dependency_13: asset_lighting0
+    Info_2:
+      Name: asset_fbx0
+      Dependencies:
+        Dependency_0: asset_png0
+        Dependency_1: asset_png1
+        Dependency_2: asset_mat0
+        Dependency_3: asset_mat1
+        Dependency_4: asset_mat2
+        Dependency_5: asset_shader0
+    Info_3:
+      Name: asset_fbx1
+      Dependencies:
+        Dependency_0: asset_png0
+        Dependency_1: asset_png1
+        Dependency_2: asset_mat0
+        Dependency_3: asset_mat1
+        Dependency_4: asset_mat2
+        Dependency_5: asset_shader0
+    Info_4:
+      Name: asset_png0
+      Dependencies: {}
+    Info_5:
+      Name: asset_png1
+      Dependencies: {}
+    Info_6:
+      Name: asset_png2
+      Dependencies: {}
+    Info_7:
+      Name: asset_mat0
+      Dependencies:
+        Dependency_0: asset_png0
+        Dependency_1: asset_png1
+        Dependency_2: asset_shadergraph0
+        Dependency_3: asset_psd0
+        Dependency_4: asset_jpg0
+        Dependency_5: asset_shader0
+    Info_8:
+      Name: asset_mat1
+      Dependencies:
+        Dependency_0: asset_png0
+        Dependency_1: asset_png1
+        Dependency_2: asset_png2
+        Dependency_3: asset_shadergraph0
+        Dependency_4: asset_jpg0
+        Dependency_5: asset_shader0
+    Info_9:
+      Name: asset_mat2
+      Dependencies:
+        Dependency_0: asset_png0
+        Dependency_1: asset_png1
+        Dependency_2: asset_shader0
+    Info_10:
+      Name: asset_mp40
+      Dependencies: {}
+    Info_11:
+      Name: asset_anim0
+      Dependencies: {}
+    Info_12:
+      Name: asset_wav0
+      Dependencies: {}
+    Info_13:
+      Name: asset_shadergraph0
+      Dependencies:
+        Dependency_0: asset_png0
+        Dependency_1: asset_psd0
+    Info_14:
+      Name: asset_controller0
+      Dependencies:
+        Dependency_0: asset_fbx0
+        Dependency_1: asset_fbx1
+        Dependency_2: asset_anim0
+    Info_15:
+      Name: asset_prefab0
+      Dependencies:
+        Dependency_0: asset_fbx0
+        Dependency_1: asset_fbx1
+        Dependency_2: asset_mat0
+        Dependency_3: asset_mat1
+        Dependency_4: asset_controller0
+    Info_16:
+      Name: asset_exr0
+      Dependencies: {}
+    Info_17:
+      Name: asset_vfx0
+      Dependencies:
+        Dependency_0: asset_fbx0
+    Info_18:
+      Name: asset_psd0
+      Dependencies: {}
+    Info_19:
+      Name: asset_mp30
+      Dependencies: {}
+    Info_20:
+      Name: asset_jpg0
+      Dependencies: {}
+    Info_21:
+      Name: asset_asset0
+      Dependencies: {}
+    Info_22:
+      Name: asset_shader0
+      Dependencies: {}
+    Info_23:
+      Name: asset_lighting0
+      Dependencies: {}

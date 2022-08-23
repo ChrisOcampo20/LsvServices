@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 784658369
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 73727bd0f1a4d51455325b3b0923ce17
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fdf6c57a251b9f6ec27bdd2fe01b033c
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Animations/Controlles/BotRPA.controller
+- Assets/Custom/Animations/Controlles/Ch44.controller
+- Assets/Custom/Animations/Controlles/Bot.controller
+- Assets/Custom/Animations/Controlles/Hennys.controller
+- Assets/Custom/Animations/Controlles/LauraCasual.controller
+- Assets/Custom/Animations/Controlles/ChristianDash.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/LeftHandAnimator.controller
+- Assets/Custom/Animations/Controlles/Carro.controller
+- Assets/Custom/Animations/Controlles/LauraRPA.controller
+- Assets/Custom/Animations/Controlles/LauraElegante 1.controller
+- Assets/Custom/Animations/Controlles/Hennys Point.controller
+- Assets/Custom/Animations/Controlles/Harry.controller
+- Assets/Custom/Animations/Controlles/LauraVRAR.controller
+- Assets/Custom/Animations/Controlles/JolaineAR.controller
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/RightHandAnimator.controller
+- Assets/Custom/Animations/Controlles/HarryVR.controller
+- Assets/Custom/Animations/Controlles/Luisa Controller.controller
+- Assets/Custom/Animations/Controlles/Lutherd.controller
+- Assets/Custom/Animations/Controlles/LutherdDash.controller
+- Assets/Custom/Animations/Controlles/HennysIdle.controller
+- Assets/Custom/Animations/Controlles/Christian.controller
+- Assets/Custom/Animations/Controlles/LuisaDocument.controller
+- Assets/Custom/Animations/Controlles/Jolaine.controller
+Dependencies:
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_anim0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_fbx1

@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2046755120
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dffd8034157ad8654d1a49345da99666
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Shaders/Hologram(SIMPLE) Shader/HologramLines_Cool.psd
+Dependencies: []

@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 2508287690
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92738e4d95405bea4130c0a7e9e67682
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e72742c2aeb2209a1a041c82b0bddcbf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 2058629509
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/VFX/Neon Rings/VFX/Dinamic/Dinamic-LightBlue.vfx
+Dependencies:
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_fbx0

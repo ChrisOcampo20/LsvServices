@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3763056555
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 56546f87a5ae3fdef4f2a5876d5ccde4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c12678a98877549a3fe7bb52917258ad
+HashAppended: 0
+ClassTypes:
+- Class: 329
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Video/Grafica02-01.mp4
+- Assets/Video/LTJ.mp4
+- Assets/Video/Introducing Oculus Quest 2.mp4
+- Assets/Video/Cx.mp4
+Dependencies: []

@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+CRC: 319294313
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb0f90c0116ddc6bbe02b161f577f99b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f2ea9f49a430fed87ff5e97587b83ed7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Personajes/Jolaineee.fbx
+- Assets/Custom/Personajes/HarryY.fbx
+- Assets/Custom/Models/Shild.fbx
+- Assets/Custom/Personajes/ybot.fbx
+- Assets/Custom/Models/CINTAS.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_mid_fist_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_index_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_thumbs_up_anim.fbx
+- Assets/Custom/Prefabs/Maqueta-Seguridad.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_thumbs_up_anim.fbx
+- Assets/Custom/Escenario/MaquetaMobile.fbx
+- Assets/Custom/Escenario/Mesa.fbx
+- Assets/Custom/Personajes/Luisaa.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_3qtr_fist_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/r_hand_skeletal_lowres.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_ping_pong_ball_anim.fbx
+- Assets/Custom/Objetos/Mouse.fbx
+- Assets/Custom/Personajes/LauraElegante.fbx
+- Assets/Custom/VFX/Neon Rings/TORUS.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_pinch_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_hold_ping_pong_ball_anim.fbx
+- Assets/Custom/Models/CintaTransportadora.fbx
+- Assets/Custom/Personajes/Xbot (2).fbx
+- Assets/Custom/Objetos/Oculus.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_fist_anim.fbx
+- Assets/Custom/Escenario/LsvServices.fbx
+- Assets/Custom/Models/Logo Cx.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/l_hand_skeletal_lowres.fbx
+Dependencies:
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_shader0

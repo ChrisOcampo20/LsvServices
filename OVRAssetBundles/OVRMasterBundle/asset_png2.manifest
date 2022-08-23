@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 763821503
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b504ab2ccfd29cedf7a170678c220939
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Textures/Personajes/NormalLutherdCasual.png
+- Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/VolumeProfileAsset.png
+- Assets/Custom/Textures/Personajes/NormalLutherdElegante.png
+- Assets/Custom/Textures/VR/Manos/HandsNRoughness.png
+Dependencies: []

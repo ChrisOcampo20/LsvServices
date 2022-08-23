@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1493366670
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f94a95f4a26941e0968e937a12a68216
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2c040cef7601b3c05f2f6ecddfcec8c0
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Scenes/Maquetas/ReflectionProbe-0.exr
+Dependencies: []

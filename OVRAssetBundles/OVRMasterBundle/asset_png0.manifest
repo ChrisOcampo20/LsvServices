@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 1043537467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c2787edc9b4da277ee0b9344e4366806
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Personajes/LutherdElegante.fbm/NormalLutherdElegante.png
+- Assets/Custom/Enviroment/SBS Space 2/Small/Textures/Left_Skybox_Space 2 Small.png
+- Assets/Custom/Personajes/Hennys.fbm/Wolf3D_Avatar_Diffuse.png
+- Assets/Custom/Escenario/LsvServices.fbm/MesaRoughness.png
+- Assets/Custom/Textures/Personajes/BaseColorLauraElegante.png
+- Assets/Custom/Textures/Servidores/Normal.png
+- Assets/Custom/Enviroment/SBS Space 2/Small/Textures/Up_Skybox_Space 2 Small.png
+- Assets/Custom/Textures/Servidores/BaseColor2.png
+- Assets/Custom/Escenario/LsvServices.fbm/MesaEmissive.png
+- Assets/Custom/Textures/Sword/SwordBaseColor.png
+- Assets/Custom/Textures/Shield/ShildNormal.png
+- Assets/Custom/Personajes/LutherdCasual.fbm/NormalLutherdCasual.png
+- Assets/Custom/Personajes/Ch44_nonPBR@T-Pose.fbm/Ch44_1002_Normal.png
+- Assets/Custom/Textures/Servidores/Metallic.png
+- Assets/Custom/Personajes/LutherdElegante.fbm/BaseColorLutherdElegante.png
+- Assets/Custom/Personajes/LauraElegante.fbm/BaseColorLauraElegante.png
+- Assets/Custom/Textures/Personajes/NormalLauraElegante.png
+- Assets/Custom/Personajes/Ch44_nonPBR@T-Pose.fbm/Ch44_1001_Diffuse.png
+- Assets/Custom/Enviroment/SBS Space 2/Small/Textures/Front_Skybox_Space 2 Small.png
+- Assets/Custom/Textures/Personajes/JolaineNormal.png
+- Assets/Custom/Textures/Personajes/HarryNormal.png
+- Assets/Custom/Textures/Personajes/ChristianNormal.png
+- Assets/Custom/Personajes/LutherdCasual.fbm/BaseColorLutherdCasual.png
+- Assets/Custom/Textures/Personajes/CalabazioBaseColor.png
+- Assets/Custom/Textures/Personajes/HennysBaseColor.png
+- Assets/Custom/Personajes/Ch44_nonPBR@T-Pose.fbm/Ch44_1002_Emissive.png
+- Assets/Custom/Textures/Personajes/LuisaBaseColor.png
+- Assets/Custom/Personajes/Hennys.fbm/Wolf3D_Avatar_Normal.png
+- Assets/Custom/Models/18303710 [Convertido]-01.png
+- Assets/Custom/Textures/Personajes/HennysNormal.png
+Dependencies: []
