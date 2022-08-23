@@ -57,7 +57,8 @@ Material:
     - Edge_Width: 0.037
     - Noise_Scale: 100
     - Noise_Strength: 1
-    - _DISSOLVE: 0.87
+    - _DISSOLVE: 1
+    - _DTime: 7
     - _QueueControl: 1
     - _QueueOffset: 0
     m_Colors:
