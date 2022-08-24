@@ -3995,7 +3995,6 @@ GameObject:
   - component: {fileID: 372261854}
   - component: {fileID: 372261855}
   - component: {fileID: 372261853}
-  - component: {fileID: 372261856}
   m_Layer: 0
   m_Name: MaquetaVR
   m_TagString: Untagged
@@ -4131,19 +4130,6 @@ MonoBehaviour:
   maquetaCollider: {fileID: 1820987870}
   pisoCollider: {fileID: 7764786210146611301}
   vacioCollider: {fileID: 254214930}
---- !u!65 &372261856
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 372261849}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.035177097, y: 0.028292539, z: 0.00069034286}
-  m_Center: {x: 0.0075885775, y: 0.0041462686, z: -0.010345173}
 --- !u!1 &374022813
 GameObject:
   m_ObjectHideFlags: 0
@@ -21991,7 +21977,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.035277102, y: 0.028392548, z: 0.02000001}
+  m_Size: {x: 0.038, y: 0.028, z: 0.022}
   m_Center: {x: 0.007638549, y: 0.0040962617, z: 0.0000000011528276}
 --- !u!1 &1830704071
 GameObject:
@@ -22955,7 +22941,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1887773272}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0.0009}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32059,6 +32045,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 684228641321036124}
+  playerDistance: 6
+  doorDistance: 3
 --- !u!82 &5286639124905049491
 AudioSource:
   m_ObjectHideFlags: 0
