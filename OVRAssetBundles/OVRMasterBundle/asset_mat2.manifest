@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+CRC: 3784611003
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c1492970ad21995db173ee8cb0a18aa0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Materials/pared.mat
+- Assets/Custom/Materials/Personajes/Calabazio.mat
+- Assets/Custom/Escenario/Materials/pc2.mat
+Dependencies:
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_shader0

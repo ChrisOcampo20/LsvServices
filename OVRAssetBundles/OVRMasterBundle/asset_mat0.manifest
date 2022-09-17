@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 554113421
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27559aeddc9d9e2d0f1bf117287a07d1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Materials/Personajes/Harry.mat
+- Assets/Custom/Escenario/Materials/bLANCO.mat
+- Assets/Custom/Materials/MetalServidor.mat
+- Assets/Custom/Escenario/Materials/Door_material.mat
+- Assets/Custom/Personajes/Materials/BaseColorLutherdElegante.mat
+- Assets/Custom/Escenario/Materials/Glow.mat
+- Assets/Custom/Escenario/Materials 1/Vidrios.mat
+- Assets/Custom/Escenario/Materials/pc.mat
+- Assets/Custom/Shaders/Hologram(SIMPLE) Shader/Hologram Material.mat
+- Assets/Custom/Escenario/Materials/piso.mat
+- Assets/Custom/Materials/Personajes/Jolaine.mat
+- Assets/Custom/Shaders/Dissolve/EXPERTO_Dissolve_LauraRPA.mat
+- Assets/Video/Emision 2.mat
+- Assets/Custom/Shaders/Dissolve/EXPERTO_Dissolve Libro.mat
+- Assets/Video/Emision 3.mat
+- Assets/Custom/Escenario/Materials/Handle_material.mat
+- Assets/Custom/Escenario/Materials/Mesa.mat
+- Assets/Custom/Escenario/Materials/Plastic_Handle_material.mat
+- Assets/Video/Emision.mat
+- Assets/Custom/Personajes/Materials/BaseColorLauraCasual.mat
+- Assets/Custom/Personajes/Materials/Ch44_1002_Diffuse.mat
+- Assets/Custom/Personajes/Materials/BaseColorLauraElegante.mat
+- Assets/Custom/Enviroment/SBS Space 2/Small/Skybox_Space 2 Small.mat
+- Assets/Custom/Personajes/Materials/Ch44_1001_Diffuse.mat
+- Assets/Custom/Escenario/Materials/HabitacionBaseColor.mat
+- Assets/Custom/Escenario/Materials/Silla.mat
+- Assets/Custom/Personajes/Materials/Wolf3D_Avatar_Diffuse.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+- Assets/Custom/Materials/piso.mat
+- Assets/Custom/Materials/BotonesIluminados.mat
+Dependencies:
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0

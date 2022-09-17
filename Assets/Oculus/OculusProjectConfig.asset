@@ -15,15 +15,15 @@ MonoBehaviour:
   targetDeviceTypes: 0100000002000000
   allowOptional3DofHeadTracking: 0
   handTrackingSupport: 0
-  handTrackingFrequency: 0
-  handTrackingVersion: 0
+  handTrackingFrequency: 1
+  handTrackingVersion: 2
   anchorSupport: 0
   renderModelSupport: 0
   trackedKeyboardSupport: 0
   disableBackups: 1
   enableNSCConfig: 1
   securityXmlPath: 
-  skipUnneededShaders: 0
+  skipUnneededShaders: 1
   focusAware: 1
   requiresSystemKeyboard: 0
   experimentalFeaturesEnabled: 0

@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3874053435
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 110c23ba38154673e3ebf79233d33ace
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Textures/Personajes/LuisaNormal.png
+- Assets/Custom/Enviroment/SBS Space 2/Small/Textures/Right_Skybox_Space 2 Small.png
+- Assets/Custom/Textures/Personajes/ChristianBaseColor.png
+- Assets/Custom/Escenario/LsvServices.fbm/HabitacionNormal.png
+- Assets/Custom/Textures/Personajes/JolaineBaseColor.png
+- Assets/Custom/Escenario/LsvServices.fbm/MesaBaseColor.png
+- Assets/Custom/Textures/Personajes/CalabazioSpecular.png
+- Assets/Custom/Enviroment/SBS Space 2/Small/Textures/Down_Skybox_Space 2 Small.png
+- Assets/Custom/Personajes/Ch44_nonPBR@T-Pose.fbm/Ch44_1002_Diffuse.png
+- Assets/Custom/Textures/Personajes/HarryBaseColor.png
+- Assets/Custom/Textures/Shield/ShildBaseColor.png
+- Assets/Custom/Personajes/Ch44_nonPBR@T-Pose.fbm/Ch44_1001_Normal.png
+- Assets/Custom/Escenario/LsvServices.fbm/VentanasNormal.png
+- Assets/Custom/Escenario/LsvServices.fbm/HabitacionBaseColor.png
+- Assets/Custom/Personajes/Christian.fbm/Wolf3D_Avatar_Diffuse.png
+- Assets/Custom/Textures/Personajes/CalabazioEmmissive.png
+- Assets/Custom/Personajes/Ch44_nonPBR@T-Pose.fbm/Ch44_1001_Emissive.png
+- Packages/com.unity.render-pipelines.core/Editor/Volume/Icons/Volume.png
+- Assets/Custom/Escenario/LsvServices.fbm/VentanasBaseColor.png
+- Assets/Custom/Textures/Personajes/BaseColorLutherdCasual.png
+- Assets/Custom/Personajes/LauraCasual.fbm/NormalLauraCasual.png
+- Assets/Custom/Personajes/LauraElegante.fbm/NormalLauraElegante.png
+- Assets/Custom/Textures/Shield/ShildEmissive.png
+- Assets/Custom/Textures/Sword/SwordNormal.png
+- Assets/Custom/Textures/Personajes/BaseColorLutherdElegante.png
+- Assets/Custom/Enviroment/SBS Space 2/Small/Textures/Back_Skybox_Space 2 Small.png
+- Assets/Custom/Personajes/Christian.fbm/Wolf3D_Avatar_Normal.png
+- Assets/Custom/Textures/Sword/SwordEmissive.png
+- Assets/Custom/Textures/Servidores/Roughness.png
+- Assets/Custom/Escenario/LsvServices.fbm/MesaNormal.png
+Dependencies: []

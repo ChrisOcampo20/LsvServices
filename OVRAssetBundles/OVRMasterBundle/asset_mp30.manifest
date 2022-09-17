@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 49879760
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a36595d4bb62c3351105545a422cefa4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Audio/mixkit-futuristic-door-open-183.mp3
+Dependencies: []

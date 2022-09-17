@@ -1,0 +1,56 @@
+ManifestFileVersion: 0
+CRC: 1878482275
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7dd9d6f2bb82c06380c3b077d27f89a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 82515b3694a1e5beae009c48c1198c34
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Personajes/Materials/BaseColorLutherdCasual.mat
+- Assets/Custom/Escenario/Materials/SVGMat.mat
+- Assets/Custom/Escenario/Materials/Glass.mat
+- Assets/Custom/Materials/Personajes/LauraElegante.mat
+- Assets/Custom/Escenario/Materials/Material.001.mat
+- Assets/Custom/Escenario/Materials/Sill_material.mat
+- Assets/Custom/Materials/Personajes/Luisa.mat
+- Assets/Custom/Materials/Manos.mat
+- Assets/Custom/Materials/Personajes/LutherdElegante.mat
+- Assets/Custom/Escenario/Materials/Wood.mat
+- Assets/Custom/Models/Materials/18303710 [Convertido]-01.mat
+- Assets/Custom/Escenario/Materials/Pies de MEsa.mat
+- Assets/Custom/Shaders/Cinta transportadora/Cinta.mat
+- Assets/Custom/Materials/Metallic.mat
+- Assets/Custom/Materials/Mouse.mat
+- Assets/Custom/Escenario/Materials/VentanasBaseColor.mat
+- Assets/Custom/Escenario/Materials/hidden_material.mat
+- Assets/Custom/Shaders/Dissolve/Dissolve Papel.mat
+- Assets/Custom/Shaders/Dissolve/EXPERTO_Dissolve_XBot.mat
+- Assets/Custom/Escenario/Materials/Material.003.mat
+- Assets/Custom/Escenario/Materials/pared.mat
+- Assets/Video/Emision 1.mat
+- Assets/Custom/Materials/Personajes/Hennys.mat
+- Assets/Custom/Materials/Personajes/Christian.mat
+- Assets/Custom/Escenario/Materials/MesaBaseColor.mat
+- Assets/Custom/Materials/Personajes/LutherdCasual.mat
+- Assets/Custom/Materials/ShildBaseColor.mat
+- Assets/Custom/Materials/SwordBaseColor.mat
+- Assets/Custom/Materials/Personajes/LauraCasual.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+Dependencies:
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/User/Documents/Development/Maquetas LSV/LsvServices/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0

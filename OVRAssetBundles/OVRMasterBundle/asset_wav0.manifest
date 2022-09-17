@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1094805180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4a77bf46ee8f140dfb8fc6858b06b545
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Custom/Audio/mixkit-sci-fi-waves-scanner-907.wav
+- Assets/Custom/Audio/mixkit-sci-fi-spaceship-in-cosmos-2734.wav
+Dependencies: []
